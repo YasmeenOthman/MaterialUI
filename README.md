@@ -1,6 +1,6 @@
 # Material-UI
 
-- This repository features code that I've built while following a tutorial from the Material-UI documentation. It's a practical resource for learning and mastering Material-UI, a popular UI framework.
+- This repository features code that I've built while following a tutorial from the [Material-UI](https://mui.com/material-ui/getting-started/) documentation. It's a practical resource for learning and mastering Material-UI, a popular UI framework.
 - link of the Tutorial : [MUI5 Crash Course](https://www.youtube.com/watch?v=o1chMISeTC0)
 
 ## Within this repository, you'll find hands-on examples and implementations of various Material-UI components, including:
