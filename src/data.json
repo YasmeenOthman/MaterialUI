@@ -1,85 +1,89 @@
 [
     {
       "id": 1,
-      "name": "Niagara Falls",
+      "name": "Palestine Nature",
       "tours": [
         {
           "id": 1,
-          "name": "Immerse into the Falls",
+          "name": "Palestine Nature",
           "duration": 5,
           "rating": 4.5,
           "numberOfReviews": 462,
           "price": 465,
-          "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg"
+          "image":"https://www.planetware.com/wpimages/2019/12/israel-in-pictures-beautiful-places-to-photograph-ein-gedi-nature-reserve.jpg"
+          
         },
         {
           "id": 2,
-          "name": "Helicopter Over the Falls",
+          "name": "Nature",
           "duration": 8,
           "rating": 3.5,
           "numberOfReviews": 641,
           "price": 385,
-          "image": "https://d2ru2mvuh5wx24.cloudfront.net/avtivity_bootstrap/1241/flight_of_angels_3__1920x864.jpg"
+          "image": "https://english.palinfo.com/Uploads/Models/Media/Images/2018/4/13/302635573.jpg?h=500&w=947&crop=auto&scale=both&quality=80&404=default&format=jpg"
+
         },
         {
           "id": 3,
-          "name": "The Falls at Night",
+          "name": "Show me the Magic",
           "duration": 2,
           "rating": 4.5,
           "numberOfReviews": 133,
           "price": 144,
-          "image": "https://www.niagarafallsstatepark.com/~/media/parks/niagara-falls/attractions-and-tours/illumination/niagarafalls-illumination-header-desktop.jpg?h=500&w=1500&la=en&hash=123E6D5F1744FBCC74EC36570E77872608D24891g"
+          "image": "https://worldofwanderlust.com/wp-content/uploads/2015/11/P1010117.jpg"
         },
         {
           "id": 4,
-          "name": "Immerse into the Falls",
+          "name": "Akka - عكا",
           "duration": 5,
           "rating": 4.5,
           "numberOfReviews": 462,
           "price": 465,
-          "image": "https://tcproduction.blob.core.windows.net/media/%7B240f8b72-1159-4fd3-a150-0a837f50ba4a%7D.2573758641_297d6d19fa_o.jpg"
+          "image": "https://www.palestineremembered.com/Acre/Acre/Picture3506.jpg"
         }
       ]
     },
     {
       "id": 2,
-      "name": "Las Vegas",
+      "name": "Palestine Cities",
       "tours": [
         {
           "id": 4,
-          "name": "All Around the World",
+          "name": "Tulkarm - طولكرم",
           "duration": 5,
           "rating": 4.5,
           "numberOfReviews": 462,
           "price": 465,
-          "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg"
+          "image": "https://cdn.britannica.com/43/240743-050-61CB0E33/Jamel-Abdel-Nasser-Square-Tulkarem.jpg"
         },
         {
           "id": 5,
-          "name": "View the Casinos",
+          "name": "Nablus - نابلس",
           "duration": 5,
           "rating": 4.5,
           "numberOfReviews": 462,
           "price": 465,
-          "image": "https://s3.amazonaws.com/virginhotelslv.com/content/uploads/2021/04/Website-Hero-Images-Mohegan-Sun-B-1300x420-1.jpg"
+          "image": "https://images.firstpost.com/wp-content/uploads/2018/06/p2.jpg"
         },
         {
           "id": 6,
-          "name": "Show me the Magic",
+          "name":" The Capital of Palestine -القدس ",
+   
           "duration": 8,
           "rating": 3.5,
           "numberOfReviews": 641,
           "price": 385,
-          "image": "https://footwearnews.com/wp-content/uploads/2020/10/magic-trade-show-las-vegas.jpg"
+          "image": "https://cdnuploads.aa.com.tr/uploads/Contents/2018/03/17/thumbs_b_c_65405eccdd9c7c57aafd2a674ede221c.jpg?v=155552"
+
         },
         {
           "id": 7,
-          "name": "The Falls at Night",
+          "name": "Bethlehem - بيت لحم",
           "duration": 2,
           "rating": 4.5,
           "numberOfReviews": 133,
           "price": 144,
-          "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg"
+          "image": "https://cdn.britannica.com/69/92669-050-D5177A8F/Manger-Square-Church-of-the-Nativity-Christmas.jpg"
         }
       ]
     }

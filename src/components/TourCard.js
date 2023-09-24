@@ -23,7 +23,7 @@ function TourCard({ tour }) {
     <Grid item xs={3}>
       <ThemeProvider theme={theme}>
         <Paper elevation={3}>
-          <img className="img" src={tour.image} />
+          <img className="img" src={tour.image} style={{ height: 170 }} />
           {/* box like a div we use to give some padding */}
           <Box paddingX={1}>
             <Typography variant="subtitle1" component="h2">

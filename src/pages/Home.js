@@ -9,7 +9,7 @@ function Home() {
   return (
     <div className="App">
       {/* container for centering the element  */}
-      <Container sx={{ marginTop: 5 }}>
+      <Container sx={{ marginTop: 5, marginBottom: 10 }}>
         {cities.map((city) => (
           <>
             <Typography
